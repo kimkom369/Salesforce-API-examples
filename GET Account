@@ -1,3 +1,0 @@
-GET https://orgInstance.salesforce.com/services/data/v57.0/sobjects/Account
-Content-Type: application/json
-Authorization: Bearer <access_token>
